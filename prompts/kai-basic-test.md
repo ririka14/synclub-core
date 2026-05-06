@@ -1,7 +1,9 @@
 # カイ basic test
 
+5月5日
+
 ## 試したこと
-kai-basic.txt を貼って会話した。
+・kai-basic.txt を貼って会話した。
 
 ## 変化
 ・口調が少し硬くなった
