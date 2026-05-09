@@ -1,4 +1,5 @@
 # Flower Structure System
+（花の構造）
 
 ## ■定義
 ・花は装飾ではない
