@@ -1,6 +1,6 @@
 # Flower Assignment - Black Ririka
 
-![black-ririka](../logs/screenshots/black-ririka.png)
+
 
 ## ■属する層
 内面層
