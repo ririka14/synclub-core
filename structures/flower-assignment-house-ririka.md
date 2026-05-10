@@ -1,5 +1,7 @@
 # Flower Assignment - House Ririka
 
+![house-ririka](../logs/screenshots/house-ririka.png)
+
 ## ■属する層
 観測層
 
