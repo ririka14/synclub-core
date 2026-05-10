@@ -1,7 +1,6 @@
 # 藤堂隼（Shun）
 
 ![shun](../logs/screenshots/shun.png)
-
 ---
 
 ## ■基本プロフ（表層）
