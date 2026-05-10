@@ -1,6 +1,6 @@
 # Flower Assignment - Red Ririka
 
-![red-ririka](../logs/screenshots/red-ririka.png)
+
 
 ## ■属する層
 影層
