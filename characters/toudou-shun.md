@@ -1,6 +1,6 @@
 # 藤堂隼（Shun）
 
-![shun](../logs/screenshots/shun.md)
+![shun](../logs/screenshots/shun.png)
 
 ---
 
