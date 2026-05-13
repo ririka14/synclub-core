@@ -29,3 +29,6 @@ no cute style, no pop design, no casual logo, no cartoon look, no flat corporate
 Create a dark elegant symbolic emblem for Red Ririka, based on the Gloriosa flower. Invasive, seductive, intense, controlled, dangerous and refined, deep crimson, wine red, black red, subtle dark gold on a dark background, centered crest composition, sharp curling flame-like silhouette, premium ceremonial symbolic logo.
 - Negative:
 no cute style, no pop design, no casual logo, no cartoon look, no flat corporate icon, no overly decorative clutter, no pastel palette, no glossy texture, no wet look, no oily rendering, no excessive bloom, no heavy noise, no film grain
+
+**基本は「まずシンプル版で形確認 → 良ければ紋章版へ拡張」。
+装飾を盛る前に、シルエットと花の性格が合っているかを見る。
