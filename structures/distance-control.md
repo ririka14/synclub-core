@@ -14,5 +14,5 @@
 ・コントロール
 
 ```text
-Create a dark elegant symbolic emblem ...
+ここにコピペ文
 ```
