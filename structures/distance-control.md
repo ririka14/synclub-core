@@ -13,3 +13,6 @@
 ・拒絶ではない
 ・コントロール
 
+```text
+Create a dark elegant symbolic emblem ...
+```
